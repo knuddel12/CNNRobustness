@@ -1,0 +1,5 @@
+name file 0 3 5 7 9
+gaussian /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/2split_blur_3_to_0_lr0.005_epochs400.pth 91.7 91.5 89.7 82.5 63.4
+box /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/2split_box_blur_7_to_0_lr0.005_epochs400.pth 92.1 91.7 89.1 79.9 60.1
+median /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/2split_median_blur_7_to_0_lr0.005_epochs400.pth 92.7 92.0 87.9 71.2 42.3
+motion /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/2split_motion_blur_9_to_0_angle360_lr0.005_epochs400.pth 92.4 92.0 90.4 85.4 72.5

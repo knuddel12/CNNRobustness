@@ -1,0 +1,5 @@
+name file 0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5 4.0
+low_only /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/AdamW_zerocentered_baseline_resnet101_facescrub_0.005lr_400epochs_eps_1e-6.pth 93.4 93.3 90.9 80.8 56.1 33.6 22.4 17.3 14.7
+high_to_low /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/2split_blur_3_to_0_lr0.005_epochs400.pth 91.7 91.7 91.3 89.7 86.4 82.1 78.3 75.1 72.9
+low_to_high /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/2split_blur_0_to_3_lr0.005_epochs400.pth 92.6 92.6 89.8 77.0 51.4 31.2 21.6 17.2 15.0
+high_only /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/const_blur4_lr0.005_epochs400.pth 50.0 55.9 71.7 83.6 87.6 89.0 89.4 89.3 89.3

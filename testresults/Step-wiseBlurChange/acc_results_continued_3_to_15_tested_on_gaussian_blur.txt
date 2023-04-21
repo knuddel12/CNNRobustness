@@ -1,0 +1,14 @@
+name file 0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5 4.0 4.5 5.0 5.5 6.0
+10 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/continued/const_blur1.5_lr0.005_epochs200_curr_10.pth 77.5 79.8 83.9 84.9 83.1 79.4 75.5 72.1 69.4 67.2 65.5 64.4 63.7
+20 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/continued/const_blur1.5_lr0.005_epochs200_curr_20.pth 73.7 77.2 83.5 86.0 85.5 83.4 81.2 78.9 77.1 75.8 74.7 73.7 73.2
+30 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/continued/const_blur1.5_lr0.005_epochs200_curr_30.pth 78.8 81.2 85.2 86.3 84.3 80.6 76.6 73.0 70.2 68.2 66.6 65.6 64.7
+40 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/continued/const_blur1.5_lr0.005_epochs200_curr_40.pth 80.0 82.5 86.5 87.4 85.2 80.9 76.7 73.2 70.5 68.3 66.7 65.8 64.9
+50 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/continued/const_blur1.5_lr0.005_epochs200_curr_50.pth 77.3 80.7 86.9 88.7 87.6 84.8 81.4 78.1 75.7 73.7 72.3 71.1 70.1
+60 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/continued/const_blur1.5_lr0.005_epochs200_curr_60.pth 81.9 84.3 88.0 88.6 86.7 83.3 79.4 75.9 73.2 71.2 69.5 68.4 67.5
+70 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/continued/const_blur1.5_lr0.005_epochs200_curr_70.pth 80.2 83.0 87.4 88.4 86.8 83.7 79.9 76.6 74.1 72.2 70.8 69.8 68.9
+80 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/continued/const_blur1.5_lr0.005_epochs200_curr_80.pth 82.6 84.6 88.4 89.1 87.5 84.7 81.4 78.1 75.7 73.7 72.4 71.3 70.3
+90 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/continued/const_blur1.5_lr0.005_epochs200_curr_90.pth 80.9 83.7 88.2 89.3 88.0 85.2 81.9 78.7 75.9 73.9 72.3 71.3 70.5
+100 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/continued/const_blur1.5_lr0.005_epochs200_curr_100.pth 81.3 83.5 87.3 88.1 86.1 81.9 77.1 72.9 70.0 67.9 66.3 64.8 63.7
+110 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/continued/const_blur1.5_lr0.005_epochs200_curr_110.pth 82.1 84.2 87.4 87.9 85.8 82.0 77.3 73.4 70.3 68.0 66.4 65.2 64.1
+120 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/continued/const_blur1.5_lr0.005_epochs200_curr_120.pth 78.0 80.9 86.5 88.2 86.6 82.6 78.4 74.5 71.6 69.4 67.8 66.5 65.4
+200 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/continued/const_blur1.5_lr0.005_epochs200_curr_200.pth 81.3 84.4 88.6 89.5 87.5 83.7 78.8 74.8 71.5 69.1 67.3 66.1 65.1
