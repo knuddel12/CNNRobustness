@@ -1,0 +1,8 @@
+name file 0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5 4.0 4.5 5.0 5.5 6.0
+10 /home/lfeyerabend_host/workstation/Dev/LarsDev/const_motion_blur_training_continued_ks9_p05_200_epochs_curr_10.pth 85.1 85.1 84.4 83.6 82.8 81.9 81.2 80.6 80.4 80.1 80.0 79.8 79.6
+20 /home/lfeyerabend_host/workstation/Dev/LarsDev/const_motion_blur_training_continued_ks9_p05_200_epochs_curr_20.pth 86.7 86.9 86.8 86.4 85.9 85.4 85.0 84.7 84.5 84.3 84.2 84.1 84.0
+40 /home/lfeyerabend_host/workstation/Dev/LarsDev/const_motion_blur_training_continued_ks9_p05_200_epochs_curr_40.pth 88.7 88.7 88.7 88.3 87.7 87.1 86.7 86.5 86.3 86.2 86.1 86.0 86.0
+60 /home/lfeyerabend_host/workstation/Dev/LarsDev/const_motion_blur_training_continued_ks9_p05_200_epochs_curr_60.pth 90.0 89.9 89.8 89.2 88.8 88.2 88.0 87.7 87.5 87.4 87.2 87.2 87.1
+80 /home/lfeyerabend_host/workstation/Dev/LarsDev/const_motion_blur_training_continued_ks9_p05_200_epochs_curr_80.pth 89.7 89.8 89.7 89.4 89.1 88.5 88.1 87.9 87.8 87.7 87.6 87.5 87.5
+100 /home/lfeyerabend_host/workstation/Dev/LarsDev/const_motion_blur_training_continued_ks9_p05_200_epochs_curr_100.pth 89.1 89.1 88.8 88.2 87.6 87.0 86.6 86.4 86.2 86.1 86.1 86.0 85.9
+200 /home/lfeyerabend_host/workstation/Dev/LarsDev/const_motion_blur_training_continued_ks9_p05_200_epochs_curr_200.pth 90.0 90.0 89.9 89.5 88.9 88.4 88.1 87.9 87.7 87.6 87.5 87.4 87.4
