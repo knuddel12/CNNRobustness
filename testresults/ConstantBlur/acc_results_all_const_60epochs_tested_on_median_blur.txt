@@ -1,0 +1,17 @@
+name file 0 3 5 7 9 11 13 15
+motion_ks3_60 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/zwischengespeichert/const_motion_blur3_lr0.005_epochs200_curr_60.pth 90.6 90.4 85.5 62.4 32.5 16.9 9.5 5.2
+motion_ks5_60 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/zwischengespeichert/const_motion_blur5_lr0.005_epochs200_curr_60.pth 85.1 86.2 84.2 72.0 46.7 26.1 15.4 8.6
+motion_ks7_60 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/zwischengespeichert/const_motion_blur7_lr0.005_epochs200_curr_60.pth 85.2 86.4 85.1 78.4 60.3 36.6 18.9 10.5
+motion_ks9_60 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/zwischengespeichert/const_motion_blur9_lr0.005_epochs200_curr_60.pth 85.6 86.9 87.3 85.3 78.3 62.8 39.7 20.5
+median_ks3_60 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/zwischengespeichert/const_median_blur3_lr0.005_epochs200_curr_60.pth 87.4 90.0 83.0 45.0 18.6 10.1 6.0 3.6
+median_ks5_60 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/zwischengespeichert/const_median_blur5_lr0.005_epochs200_curr_60.pth 73.1 84.1 86.9 73.3 45.1 27.4 17.0 10.4
+median_ks7_60 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/zwischengespeichert/const_median_blur7_lr0.005_epochs200_curr_60.pth 48.9 67.1 84.8 87.3 75.9 51.3 30.6 17.4
+median_ks9_60 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/zwischengespeichert/const_median_blur9_lr0.005_epochs200_curr_60.pth 32.2 48.5 71.4 84.4 87.2 82.1 62.8 36.6
+box_ks3_60 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/zwischengespeichert/const_box_blur3_lr0.005_epochs200_curr_60.pth 85.8 88.5 82.8 51.7 24.7 13.4 7.8 4.5
+box_ks5_60 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/zwischengespeichert/const_box_blur5_lr0.005_epochs200_curr_60.pth 58.4 73.7 83.9 76.9 50.6 30.4 17.6 9.9
+box_ks7_60 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/zwischengespeichert/const_box_blur7_lr0.005_epochs200_curr_60.pth 23.6 38.3 63.1 72.8 62.0 40.3 24.0 14.1
+box_ks9_60 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/zwischengespeichert/const_box_blur9_lr0.005_epochs200_curr_60.pth 15.3 23.8 41.3 57.2 61.4 53.1 37.1 22.9
+gauss_ks3_60 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/zwischengespeichert/const_blur0_lr0.005_epochs200_curr_60.pth 90.2 87.6 66.9 30.1 13.2 7.2 4.0 2.4
+gauss_ks3_60 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/zwischengespeichert/const_blur1_lr0.005_epochs200_curr_60.pth 81.4 88.2 86.1 59.4 28.1 15.0 8.0 4.5
+gauss_ks3_60 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/zwischengespeichert/const_blur2_lr0.005_epochs200_curr_60.pth 27.1 45.9 72.1 77.7 62.8 40.1 22.7 12.7
+gauss_ks3_60 /home/lfeyerabend_host/workstation/Dev/LarsDev/NNs/zwischengespeichert/const_blur3_lr0.005_epochs200_curr_60.pth 17.1 30.0 55.3 71.1 69.1 54.7 37.1 23.0
