@@ -1,0 +1,2 @@
+name file 0 3 5 7 9 11 13
+baseline /home/lfeyerabend_host/workstation/Dev/LarsDev/AdamW_zerocentered_baseline_resnet101_facescrub_0.005lr_400epochs_eps_1e-6.pth 93.4 91.8 85.0 69.1 46.2 35.0 24.2

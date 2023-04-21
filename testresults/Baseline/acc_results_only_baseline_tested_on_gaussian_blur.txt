@@ -1,0 +1,2 @@
+name file 0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5 4.0 4.5 5.0 5.5 6.0
+baseline D:\Projects\prototyping\Dev\LarsDev\NNs/AdamW_zerocentered_baseline_resnet101_facescrub_0.005lr_400epochs_eps_1e-6.pth 93.4 93.2 90.8 80.8 56.2 33.5 22.4 17.3 14.6 13.4 12.5 12.0 11.4
